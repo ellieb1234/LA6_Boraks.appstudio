@@ -1,3 +1,4 @@
+
 btnAdd.onclick=function(){
   num1=parseInt(iptNum1.value)
   num2=parseInt(iptNum2.value)

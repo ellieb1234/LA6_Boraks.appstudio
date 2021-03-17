@@ -16,6 +16,15 @@
         "forms",
         "newControls",
         "Elements",
+        "altGoddess.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
         "hmbGoddess.json"
       ]
     },
@@ -34,7 +43,34 @@
         "forms",
         "newControls",
         "Elements",
-        "sldPercent.json"
+        "Lable1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "Lable2.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "Lable3.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "Lable4.json"
       ]
     },
     {
@@ -52,34 +88,7 @@
         "forms",
         "newControls",
         "Elements",
-        "Label1.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "newControls",
-        "Elements",
-        "Label2.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "newControls",
-        "Elements",
-        "Label3.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "newControls",
-        "Elements",
-        "Label4.json"
+        "sldPercent.json"
       ]
     }
   ],

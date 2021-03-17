@@ -2,7 +2,7 @@
   "!type": "Button_bs4",
   "ChangeForm": "",
   "appearance": " btn-secondary",
-  "backgroundColor": "",
+  "backgroundColor": "green",
   "badge": "",
   "badgeAppearance": " badge-info",
   "blockLevel": "",
@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnSubmit",
-  "left": 116,
+  "left": 97,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 96,
-  "value": "Button",
+  "top": 107,
+  "value": "Check status",
   "width": "auto"
 }

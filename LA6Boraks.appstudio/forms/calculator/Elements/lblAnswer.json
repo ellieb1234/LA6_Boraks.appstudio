@@ -1,7 +1,7 @@
 {
   "!type": "Label_bs4",
-  "appearance": "primary",
-  "backgroundColor": "",
+  "appearance": "dark",
+  "backgroundColor": "lightgrey",
   "borderRadius": "0",
   "bottom": "auto",
   "cached_js": "",
@@ -19,7 +19,7 @@
   "hidden": "",
   "id": "lblAnswer",
   "labelStyle": "text",
-  "left": 89,
+  "left": 59,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 274,
-  "value": "Answer",
-  "width": 119
+  "top": 272,
+  "value": "",
+  "width": 165
 }

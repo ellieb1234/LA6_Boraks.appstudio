@@ -1,7 +1,7 @@
 {
   "!type": "Label_bs4",
-  "appearance": "primary",
-  "backgroundColor": "",
+  "appearance": "dark",
+  "backgroundColor": "lightgray",
   "borderRadius": "0",
   "bottom": "auto",
   "cached_js": "",
@@ -15,11 +15,11 @@
   "fontSize": "",
   "fontStyle": "",
   "fontWeight": "",
-  "height": "auto",
+  "height": 74,
   "hidden": "",
   "id": "lblNotify",
   "labelStyle": "text",
-  "left": 130,
+  "left": 52,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 259,
-  "value": "Label",
-  "width": "auto"
+  "top": 207,
+  "value": "",
+  "width": 205
 }
