@@ -16,7 +16,7 @@
         "forms",
         "membership",
         "Elements",
-        "Input1.json"
+        "iptName.json"
       ]
     },
     {
@@ -25,7 +25,7 @@
         "forms",
         "membership",
         "Elements",
-        "Label1.json"
+        "btnSubmit.json"
       ]
     },
     {
@@ -34,7 +34,7 @@
         "forms",
         "membership",
         "Elements",
-        "Button1.json"
+        "lblNotify.json"
       ]
     }
   ],
