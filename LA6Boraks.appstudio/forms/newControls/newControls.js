@@ -7,7 +7,7 @@ sldPercent_input.onchange=function(){
 }
 
 hmbGoddess.onclick=function(x){
-    if (typeof(x)=="object") {
+    if(typeof(x)=="object"){
         return;
     }
     if(x=="Oslira"){
@@ -16,10 +16,10 @@ hmbGoddess.onclick=function(x){
     if(x == "Rutala"){
         lblName.value='Rutala is the goddess of stories and winter'
     }
-    if (x=="Intris"){
+    if(x=="Intris"){
         lblName.value='Intris is the goddess of the sun and summer'
     }
-    if (x=="Medea"){
+    if(x=="Medea"){
       lblName.value='Medea is the goddess of marriage and spring'
     }
 }
